@@ -7,8 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/masingar/kurs2.git"
+    },
+
   "author": "masingar audunskjelvan",
   "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/masingar/kurs2/issues"
+  },
+
   "dependencies": {
     "bower": "^1.3.3",
     "engines": "0.0.1",
