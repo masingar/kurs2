@@ -1,0 +1,26 @@
+{
+  "name": "kurs2",
+  "version": "0.0.0",
+  "description": "Responsive website design",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heroku",
+    "node",
+    "grunt",
+    "bower",
+    "responsive"
+  ],
+  "author": "masingar audunskjelvan",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.3.3",
+    "engines": "0.0.1",
+    "express": "^4.4.0",
+    "grunt-cli": "^0.1.13",
+    "logfmt": "^1.1.2",
+    "yo": "^1.1.2"
+  }
+}
